@@ -29,8 +29,7 @@ function addItemToCart(i) {
     document.querySelector('#cart-output').textContent = 1;
   }
   
-
-
+  
   quanBtn[i].style.display = 'block'
   imageCard[i].style.border = '2px solid #C73B0F'
   imgCard[i].style.border = '2px solid #C73B0F'
